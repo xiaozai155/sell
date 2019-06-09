@@ -1,12 +1,9 @@
 <template>
-    <div class="header">
-        我是header
-    </div>
+    <div class="ratings">我是ratings</div>
 </template>
 <script>
 export default {
 };
 </script>
 <style lang="stylus" scoped>
-
 </style>

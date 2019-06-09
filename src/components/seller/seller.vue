@@ -1,12 +1,9 @@
 <template>
-    <div class="header">
-        我是header
-    </div>
+    <div class="seller">我是seller</div>
 </template>
 <script>
 export default {
 };
 </script>
 <style lang="stylus" scoped>
-
 </style>
