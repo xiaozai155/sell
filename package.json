@@ -11,6 +11,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "animate.css": "^3.7.2",
+    "better-scroll": "^1.15.2",
     "stylus": "^0.54.5",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",

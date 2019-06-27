@@ -4,7 +4,11 @@ import Vue from 'vue';
 import App from './App';
 import router from './router';
 import VueResource from 'vue-resource';
+import './common/stylus/index.styl';
+import '../static/css/reset.css';
+import animated from 'animate.css';
 
+Vue.use(animated);
 Vue.use(VueResource);
 
 Vue.config.productionTip = false;
